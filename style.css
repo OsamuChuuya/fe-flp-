@@ -1,0 +1,242 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.nav{
+    display: flex;
+    gap: 100px;
+    width: 1440px;
+    height: 100px;
+    color: aliceblue;
+    background-color: black;
+}
+.nav ul{
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+gap: 40px;
+text-shadow: 0px 4px 10px ;
+margin-left: 100px;
+}
+.der{
+    margin-left: 100px;
+}
+.header{
+    background-image: url(Rectangle\ 2\ \(6\).png);
+    width: 1440px;
+height: 594px;
+top: 169px;
+gap: 0px;
+opacity: 0px;
+
+}
+.ger{
+    font-family: Inter;
+font-size: 57px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+margin-top: 10px;
+width: 602px;
+height: 75px;
+top: 206px;
+left: 455px;
+gap: 0px;
+border-radius: 30px 30px 30px 30px;
+background-color: aliceblue;
+margin-left: 390px;
+box-shadow: 15px 5px 50px 0px white;
+
+}
+.big{
+    width: 237px;
+    height: 209px;
+    top: 362px;
+    left: 206px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F70101;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+color: aliceblue;
+align-items: center;
+padding: 70px;
+margin-left: 160px;
+position: absolute;
+top: -235px;
+left:-50px;
+margin-top: 100px;
+}
+.bir{
+    
+    width: 237px;
+height: 209px;
+top: 362px;
+left: 206px;
+gap: 0px;
+opacity: 0px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: aliceblue;
+    padding: 100px;
+    padding-top: 100px;
+    padding-left: 80px;
+    background: #32FB00;
+align-items: center;
+}
+.larg{
+    position: relative;
+    margin-top: 160px;
+    margin-left: 50px;
+}
+.dks{
+    padding-top: 95px;
+    margin: 0 auto;
+    margin-top: -350px;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+    width: 411px;
+height: 209px;
+top: 362px;
+left: 504px;
+gap: 0px;
+border-radius: 100px ;
+opacity: 0px;
+background: #F70101;
+color: aliceblue;
+position: absolute;
+top: -205px;
+
+margin-top: 100px;
+}
+.biw{
+    padding-top: 220px;
+    width: 237px;
+    height: 209px;
+    top: 362px;
+    left: 206px;
+    gap: 0px;
+    opacity: 0px;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 700;
+        text-align: center;
+        color: aliceblue;
+        padding: 100px;
+        padding-left: 80px;
+        background: #32FB00;
+    align-items: center;
+    margin-left: 600px;
+    
+
+}
+.dfg{
+    margin-top: -250px;
+position: relative;
+
+}
+.bit{
+    width: 237px;
+    height: 209px;
+    top: 362px;
+    left: 206px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F70101;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+color: aliceblue;
+align-items: center;
+padding: 70px;
+margin-top: 100px;
+
+position: absolute;
+top: -235px;
+left:-50px;
+
+}
+.bis{
+    margin-left: 80px;
+    width: 237px;
+    height: 209px;
+    top: 362px;
+    left: 206px;
+    gap: 0px;
+    opacity: 0px;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 700;
+        text-align: center;
+        color: aliceblue;
+        padding: 100px;
+        padding-top: 100px;
+        padding-left: 80px;
+        background: #32FB00;
+    align-items: center;
+}
+.nas{
+    position: relative;
+    margin-left: 1060px;
+    margin-top: -170px;
+}
+
+.kon{
+  
+    width: 1440px;
+height: 724px;
+top: 169px;
+gap: 0px;
+background-color: black;
+opacity: 0px;
+
+}
+.vdr{
+    background-color: black;
+}
+.con {
+    width: 368px;
+height: 332px;
+top: 1044px;
+left: 87px;
+gap: 0px;
+opacity: 0px;
+background: #7B2525;
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.73px;
+text-align: center;
+color: #FFFFFF;
+text-shadow: 0px 4px 7px  #FFFFFF;
+
+}
+.fwe{
+    width: 368px;
+    height: 332px;
+    top: 1044px;
+    left: 543px;
+    gap: 0px;
+    opacity: 0px;
+margin-left: 440px;    
+    background: #7B2525;
+    margin-top: -330px;
+}
+.gav{
+    display: flex;
+    margin-top: 125px;
+    gap: 88px;
+    margin-left: 70px;
+}
